@@ -28,6 +28,7 @@
     border: 1.5px solid transparent;
 }
 .border:hover{
+<<<<<<< HEAD
     border:1.5px solid white;
 }  
 
@@ -198,3 +199,7 @@ span{
 .box-content p{
     color: #007185;
 }
+=======
+    border:2px solid white
+}
+>>>>>>> cb4463f79a5c95d9ebd0d66fab65ea3c04ff8de9
