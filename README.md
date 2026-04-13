@@ -2,6 +2,7 @@
 
 ##  Live Demo
 
+https://zafar-equbal.github.io/amazon-clone/
 
 ---
 
