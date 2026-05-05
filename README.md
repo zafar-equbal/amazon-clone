@@ -22,7 +22,7 @@ The main goal of this project is to practice front-end development and improve U
 
 ---
 
-##  Features
+##  Feature
 
 * 🔹 Amazon-like Navbar
 * 🔹 Search Bar UI
